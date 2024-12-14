@@ -1,4 +1,4 @@
-# Wheat-Sol (SWHIT): Cultivating Digital Wealth for Future Generations
+# Wheat-Sol (SWHIT): Sowing the Seeds of Digital Prosperity
 
 ## Table of Contents
 
