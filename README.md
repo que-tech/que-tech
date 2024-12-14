@@ -38,7 +38,7 @@ Key highlights:
 | Platform Name | Wheat-Sol |
 | Token Ticker | SWHIT |
 | Organization | WheatChain |
-| Total Supply | 500,000,000 SWHIT |
+| Total Supply | 50,000,000,000 SWHIT |
 | Blockchain (Current) | Linea |
 | Blockchain (Future) | WheatChain |
 
